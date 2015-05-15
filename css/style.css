@@ -33,6 +33,11 @@ Table of Contents:
 --------------
 */
 
+.ion-social-twitter {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
 html {
 	height: 100%;
 	color: #121212;
@@ -1676,6 +1681,7 @@ ul.caret-list li:before {
 }
 .blog-widget-container {
     margin-bottom: 60px;
+    padding-top: 25px;
 }
 .form-control:focus {
     border-color: #121212;
@@ -1829,4 +1835,16 @@ ul.caret-list li:before {
     padding: 15px;
     color: #fff;
     background-color: #272727;
+}
+
+.trademark-large {
+     color:#d8d8d8;
+     font-size:14px;
+     vertical-align: text-top;
+ }
+
+.trademark {
+    color:#d8d8d8;
+    font-size:10px;
+    vertical-align: text-top;
 }
